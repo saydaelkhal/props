@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-image: url(back.jpg);
+  font-family: 'Staatliches', sans-serif;
+  
 }
 
 .App-logo {
